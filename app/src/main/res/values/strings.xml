@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">FacebookSdk</string>
-    <string name="facebook_app_id">230422667337685</string>
+    <string name="facebook_app_id">#please add here your facebook app id</string>
 </resources>
